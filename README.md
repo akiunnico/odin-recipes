@@ -1,1 +1,1 @@
-No sé lo que estoy haciendo
+He creado mi primer repositorio. Se trata de una página de recetas para solteros..., así que no os esperéis nada muy complejo -por lo de soltero y por lo de novato en esto de enviar repositorios.
